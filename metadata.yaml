@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '25802'
     url: http://www.gutenberg.org/2009/agents/25802
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23320#The-DeafEducation-in-the-United-States
 gutenberg_issued: '2007-11-04'
 gutenberg_type: Text
 identifiers:
